@@ -1,7 +1,10 @@
 # 🙋‍♂️ À propos de moi
-<br>    ⚡ Lenny <br><br>
-<br>    👯 17 ans <br><br>
-<br>    💻 Fondateur/Développeur de Secours de France<br><br>
+
+.⚡ Lenny 
+
+.👯 17 ans
+
+.💻 Fondateur/Développeur de Secours de France
 
 </p>
 
